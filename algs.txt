@@ -1,0 +1,3 @@
+ENTER DECK NAME HERE
+R U R' U R U2 R'
+R' U' R U' R' U2 R
