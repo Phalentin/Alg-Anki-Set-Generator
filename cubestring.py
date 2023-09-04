@@ -1,3 +1,6 @@
+# ---------------------------------------------------
+# SORRY TO EVERYONE WHO WANTS TO MAKE CHANGES TO THIS
+# ---------------------------------------------------
 from enum import Enum
 
 class InvalidNotationError(Exception):
